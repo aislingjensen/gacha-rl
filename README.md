@@ -29,3 +29,7 @@ sudo apt install mesa-common-dev \
 curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python
 
 poetry install
+
+configure remote extension - https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
+
+configure git ssh if you want it
