@@ -22,7 +22,9 @@ brew install gcc (it's recommended and I want to be safe)
 brew install pyenv (I used https://realpython.com/intro-to-pyenv/ "using the pyenv-installer)
 
 sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev \\
+
     libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev \\
+    
     xz-utils tk-dev libffi-dev liblzma-dev python-openssl git
 
 pyenv install 3.8.2
@@ -35,7 +37,9 @@ python --version (should read 3.8.2)
 
 
 sudo apt install mesa-common-dev \\
+
     libsdl2-dev libsdl2-image-dev \\
+    
     libsdl2-ttf-dev libsdl2-mixer-dev
 
 
