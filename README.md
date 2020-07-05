@@ -33,3 +33,6 @@ poetry install
 configure remote extension - https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
 
 configure git ssh if you want it
+
+to actually run the game from linux you'll need https://sourceforge.net/projects/xming/ and `export DISPLAY=:0`
+

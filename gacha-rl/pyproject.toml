@@ -6,7 +6,7 @@ authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-tcod = "11.11.0"
+tcod = "11.13.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
